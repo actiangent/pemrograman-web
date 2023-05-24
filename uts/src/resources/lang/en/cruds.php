@@ -69,6 +69,10 @@ return [
         'title'          => 'Sample',
         'title_singular' => 'Sample',
     ],
+    'uts' => [
+        'title'          => 'UTS',
+        'title_singular' => 'UTS',
+    ],
     'book' => [
         'title'          => 'Book',
         'title_singular' => 'Book',
